@@ -1,0 +1,10 @@
+server:
+  port: 1201
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/yy88/config-repo-demo.git
