@@ -17,5 +17,9 @@
         <module>config-server-git</module>
         <module>config-client</module>
         <module>eureka-consumer-ribbon-hystrix</module>
+        <module>swagger-service-a</module>
+        <module>swagger-service-b</module>
+        <module>api-gateway</module>
+        <module>swagger-api-gateway</module>
     </modules>
 </project>
